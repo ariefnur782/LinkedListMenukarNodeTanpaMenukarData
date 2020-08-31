@@ -1,0 +1,2 @@
+# LinkedListMenukarNodeTanpaMenukarData
+uts
